@@ -1,3 +1,6 @@
+```python
+# Below is an ASCII diagram showing the process flow:
+# 
 # [GitHub Repo] --(1)--> [GitHub Webhook]
 #                           |
 #                           v
@@ -12,4 +15,3 @@
 #                      (4) Pull updates
 #               [cPanel Server Directories]
 #
-
