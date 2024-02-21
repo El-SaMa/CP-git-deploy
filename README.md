@@ -15,5 +15,4 @@
 #                      (4) Pull updates
 #               [cPanel Server Directories]
 #
-def example_function():
-    pass
+
