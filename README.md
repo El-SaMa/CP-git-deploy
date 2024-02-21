@@ -1,6 +1,3 @@
-```python
-# Below is an ASCII diagram showing the process flow:
-# 
 # [GitHub Repo] --(1)--> [GitHub Webhook]
 #                           |
 #                           v
